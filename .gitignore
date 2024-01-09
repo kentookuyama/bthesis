@@ -1,0 +1,8 @@
+# .gitignore
+*.pth
+*.pyc
+*.pkl
+data/
+*.ipynb
+runs/
+
